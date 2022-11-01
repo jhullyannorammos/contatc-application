@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: AppJsf
+Bundle-SymbolicName: ApplicationJSF
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.com.ciceroednilson.filters,
+ br.com.ciceroednilson.model,
+ br.com.ciceroednilson.pessoa.controller,
+ br.com.ciceroednilson.repository,
+ br.com.ciceroednilson.repository.entity,
+ br.com.ciceroednilson.usuario.controller,
+ br.com.ciceroednilson.uteis,
+ br.com.test
+Import-Package: junit.framework
